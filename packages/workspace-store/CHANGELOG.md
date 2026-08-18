@@ -1,5 +1,7 @@
 # @scalar/workspace-store
 
+## 0.57.2
+
 ## 0.57.1
 
 ## 0.57.0
